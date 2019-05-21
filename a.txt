@@ -2,3 +2,4 @@ I am Ming
 master
 
 commit 1
+commit 2
